@@ -1,2 +1,2 @@
-# invalid_flow_of_jina
+# invalid_flow_between_splitter_and_encoder
 debugging
